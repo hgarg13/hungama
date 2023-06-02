@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "id": "Logo",
+      "isDefault": true
+    },
+    {
+      "id": "Login Sign up",
+      "isDefault": false
+    },
+    {
+      "id": "Phone Number",
+      "isDefault": false
+    },
+    {
+      "id": "User Information",
+      "isDefault": false
+    },
+    {
+      "id": "Hobbies ",
+      "isDefault": false
+    },
+    {
+      "id": "join a club ",
+      "isDefault": false
+    },
+    {
+      "id": "Create a Club",
+      "isDefault": false
+    },
+    {
+      "id": "Add post",
+      "isDefault": false
+    },
+    {
+      "id": "Feed",
+      "isDefault": false
+    },
+    {
+      "id": "Gossip",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "64788b16a3d53175a1024a59",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "publishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "64788b16a3d53175a1024a59",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "color": "#FFDEDE",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
